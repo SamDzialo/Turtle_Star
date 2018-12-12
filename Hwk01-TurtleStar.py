@@ -1,9 +1,7 @@
 """
-file: Hwk01.py
 author: Sam Dzialo
 Email: sad8333@rit.edu
 language: python3.7
-description: Star turtle solution
 """
 import turtle
 
